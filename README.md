@@ -3,9 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Choose Your Payment Method</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
+ </head>
 <body class="bg-gray-100 min-h-screen flex flex-col items-center justify-center p-6">
   
   <h1 class="text-3xl font-bold mb-8 text-gray-800">Choose Your Payment Method</h1>
